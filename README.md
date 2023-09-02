@@ -17,12 +17,6 @@ Admin Management: Admin users have complete control over the system. They can ma
 
 User Profile Management: Patients and doctors can update their profiles, including personal details, contact information, and medical history, ensuring accurate record-keeping.
 
-Appointment Reminders: Automated reminders are sent to patients to notify them about upcoming appointments, reducing the chances of missed consultations.
-
-Medical History Storage: The system securely stores patient medical histories, enabling doctors to access previous diagnoses and treatments for better-informed decisions.
-
-Billing and Invoicing: Patients can view and download invoices for their medical services, making the billing process transparent and accessible.
-
 Responsive Design with Bootstrap: The user interface is designed with Bootstrap, ensuring a responsive and visually appealing experience across various devices.
 
 Medi Care aims to optimise hospital management by seamlessly integrating technology into the healthcare process. It enhances patient care by enabling convenient appointment booking, improving doctor-patient communication, and streamlining administrative tasks. With its user-friendly interface and comprehensive features, Medi Care stands as a reliable solution for modernising hospital operations.
